@@ -11,20 +11,15 @@
       "static/css/app/layout.css",
       "static/chunks/app/layout.js"
     ],
-    "/contactUs/page": [
+    "/shop/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
-      "static/chunks/app/contactUs/page.js"
+      "static/chunks/app/shop/page.js"
     ],
-    "/signIn/page": [
+    "/adtocart/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
-      "static/chunks/app/signIn/page.js"
-    ],
-    "/signUp/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/signUp/page.js"
+      "static/chunks/app/adtocart/page.js"
     ]
   }
 }

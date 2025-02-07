@@ -95,7 +95,7 @@ const ShopMain = () => {
                         <button className="p-2 bg-myWhite text-primaryYellow rounded-sm hover:bg-primaryYellow hover:text-myWhite transition">
                           <PiGitDiff className="text-xl" />
                         </button>
-                        <Link href="../adtocart"> <button className="p-2 bg-myWhite text-primaryYellow rounded-sm hover:bg-primaryYellow hover:text-myWhite transition">
+                        <Link href="/"> <button className="p-2 bg-myWhite text-primaryYellow rounded-sm hover:bg-primaryYellow hover:text-myWhite transition">
                           <PiHandbagLight className="text-xl" />
                         </button> </Link>
                         <button className="p-2 bg-myWhite text-primaryYellow rounded-sm hover:bg-primaryYellow hover:text-myWhite transition">

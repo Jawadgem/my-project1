@@ -673,9 +673,6 @@ body{
 .-mt-\[120px\]{
   margin-top: -120px;
 }
-.mb-1{
-  margin-bottom: 0.25rem;
-}
 .mb-10{
   margin-bottom: 2.5rem;
 }
@@ -1246,10 +1243,6 @@ body{
   --tw-bg-opacity: 1;
   background-color: rgb(79 79 79 / var(--tw-bg-opacity, 1));
 }
-.bg-indigo-500{
-  --tw-bg-opacity: 1;
-  background-color: rgb(99 102 241 / var(--tw-bg-opacity, 1));
-}
 .bg-myWhite{
   --tw-bg-opacity: 1;
   background-color: rgb(255 255 255 / var(--tw-bg-opacity, 1));
@@ -1766,11 +1759,6 @@ body {
 .hover\:bg-\[\#FF9F0D\]:hover{
   --tw-bg-opacity: 1;
   background-color: rgb(255 159 13 / var(--tw-bg-opacity, 1));
-}
-
-.hover\:bg-indigo-600:hover{
-  --tw-bg-opacity: 1;
-  background-color: rgb(79 70 229 / var(--tw-bg-opacity, 1));
 }
 
 .hover\:bg-primaryYellow:hover{
