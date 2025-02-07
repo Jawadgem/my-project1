@@ -1,5 +1,4 @@
 {
   "/shop/page": "app/shop/page.js",
-  "/adtocart/page": "app/adtocart/page.js",
   "/page": "app/page.js"
 }
