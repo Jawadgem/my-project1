@@ -33,7 +33,7 @@ const ContactUs = () => {
           <h2 className="title-font font-semibold text-gray-900 tracking-widest text-xs mt-4">
             UAN
           </h2>
-          <p className="leading-relaxed">021 111 111 111 </p>
+          <p className="leading-relaxed">111 111 111 </p>
         </div>
       </div>
     </div>
